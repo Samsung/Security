@@ -1,7 +1,7 @@
 # Samsung Security Advisory
 
 
-## [Disclosure Policy](DISCLOSURE.md)
+## [Disclosure Policy](docs/DISCLOSURE.md)
 
 At Samsung, we take security and privacy issues very seriously, and we value the security research community with our commitment to address potential security vulnerabilities as quickly as possible. The responsible disclosure of security vulnerabilities helps us ensure the security and privacy of our end-consumers.
 
@@ -16,11 +16,11 @@ At Samsung, we take security and privacy issues very seriously, and we value the
 * Make our best effort to resolve security vulnerabilities, and release patches to end-consumers on following Schedule & Reward Program table.
 
 
-## [Scope](SCOPE.md)
+## [Scope](docs/SCOPE.md)
 Vulnerabilities affecting end-of-life/end-of-service products are in scope.
 
 
-## [Products](PRODUCT.md)
+## [Products](docs/PRODUCT.md)
 
 ### Samsung consumer electronics products
 
