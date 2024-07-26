@@ -20,23 +20,23 @@ At Samsung, we take security and privacy issues very seriously, and we value the
 Vulnerabilities affecting end-of-life/end-of-service products are in scope.
 
 
-## [Products](docs/PRODUCT.md)
+### [Products](docs/PRODUCT.md)
 
-### Samsung consumer electronics products
+#### Samsung consumer electronics products
 
-#### Samsung TV & Display products
-##### B2C product
+##### Samsung TV & Display products
+###### B2C product
 * Smart TV
 * Smart Monitor
 * Soundbar
 * Projector
-##### B2B products
+###### B2B products
 * Digital signage
 * Interactive display
 * Kiosk
 
-#### Samsung Home Appliance products
+##### Samsung Home Appliance products
 * Internet-connected home appliances
 
-#### Samsung-owned open-source projects
+##### Samsung-owned open-source projects
 * listed on https://github.com/Samsung/
