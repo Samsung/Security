@@ -25,6 +25,7 @@ Vulnerabilities affecting end-of-life/end-of-service products are in scope.
 * Smart Monitor
 * Soundbar
 * Projector
+
 ###### B2B products
 * Digital signage
 * Interactive display
