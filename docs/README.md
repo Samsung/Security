@@ -35,7 +35,8 @@ Vulnerabilities affecting end-of-life/end-of-service products are in scope.
 * Internet-connected home appliances
 
 ##### Samsung consumer electronics products
-* All consumer electronics products and services EXCEPT those listed on the Samsung Mobile products and services (as seen on https://www.cve.org/PartnerInformation/ListofPartners/partner/Samsung_Mobile)
+* All consumer electronics products and services EXCEPT those listed on the Samsung Mobile products and services
+  (as seen on https://www.cve.org/PartnerInformation/ListofPartners/partner/Samsung_Mobile)
 
 ##### Samsung-owned open-source projects
 * listed on https://github.com/Samsung/
