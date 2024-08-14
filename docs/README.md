@@ -18,9 +18,8 @@ At Samsung, we take security and privacy issues very seriously, and we value the
 Vulnerabilities affecting end-of-life/end-of-service products are in scope.
 
 ### [Products](PRODUCT.md)
-#### Samsung consumer electronics products
-##### Samsung TV, Display products
-###### B2C product
+#### Samsung TV, Display products
+###### B2C products
 * Smart TV
 * Smart Monitor
 * Soundbar
@@ -31,12 +30,12 @@ Vulnerabilities affecting end-of-life/end-of-service products are in scope.
 * Interactive display
 * Kiosk
 
-##### Samsung Home Appliance products
+#### Samsung Home Appliance products
 * Internet-connected home appliances
 
-##### Samsung consumer electronics products
+#### Samsung consumer electronics products
 * All consumer electronics products and services EXCEPT those listed on the Samsung Mobile products and services
   (as seen on https://www.cve.org/PartnerInformation/ListofPartners/partner/Samsung_Mobile)
 
-##### Samsung-owned open-source projects
+#### Samsung-owned open-source projects
 * listed on https://github.com/Samsung/
